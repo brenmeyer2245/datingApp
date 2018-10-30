@@ -1,0 +1,14 @@
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/littleartdog/Desktop/datingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
