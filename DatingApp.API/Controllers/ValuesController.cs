@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DatingApp.API.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DatingApp.API.Controllers
 {
@@ -21,6 +22,7 @@ namespace DatingApp.API.Controllers
 
 
     // GET api/values
+    [Authorize]
     [HttpGet]
     public async Task<IActionResult> Get()
     {
